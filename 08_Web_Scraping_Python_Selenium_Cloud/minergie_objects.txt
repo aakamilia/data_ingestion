@@ -1,3 +1,18 @@
+LU-2197 | Minergie Definitiv | Luzern 6006 | Neubau, MFH | Gebäude LU-2197
+UR-242 | Minergie Definitiv | Erstfeld 6472 | Erneuerung, EFH | Gebäude UR-242
+ITA-038 | Minergie Provisorisch | Mestre 30173 | Neubau, EFH | Gebäude ITA-038
+ITA-016 | Minergie Definitiv | Sassello (SV) 17046 | Neubau, EFH | Gebäude ITA-016
+BL-1291 | Minergie Definitiv | Oberwil 4104 | Neubau, EFH | Gebäude BL-1291
+BL-1292 | Minergie Definitiv | Oberwil 4104 | Neubau, EFH | Gebäude BL-1292
+VS-2739 | Minergie Definitiv | Vollèges 1941 | Neubau, MFH | Gebäude VS-2739
+VS-2738 | Minergie Definitiv | Vollèges 1941 | Neubau, MFH | Gebäude VS-2738
+SH-694 | Minergie Provisorisch | Schaffhausen 8200 | Erneuerung, Schule / Verwaltung | Gebäude SH-694
+GE-055-ECO | Minergie-ECO Definitiv | Genève 1227 | Neubau, MFH / Verkauf | Gebäude GE-055-ECO, ... (16)
+VD-3497 | Minergie Definitiv | Lausanne 1007 | Erneuerung, MFH | Gebäude VD-3497
+LU-053-A | Minergie-A Definitiv | Kriens 6010 | Neubau, EFH | Gebäude LU-053-A
+AG-056-ECO | Minergie-ECO Provisorisch | Turgi 5300 | Neubau, Verwaltung | Gebäude AG-056-ECO
+VD-4171 | Minergie Definitiv | Prilly 1008 | Neubau, MFH | Gebäude VD-4171
+VD-4596 | Minergie Definitiv | Prangins 1197 | Neubau, EFH | Gebäude VD-4596
 NE-009-A | Minergie-A Provisorisch | Neuchâtel 2000 | Erneuerung, EFH | Gebäude NE-009-A
 AG-752-P | Minergie-P Definitiv | Auenstein 5105 | Neubau, EFH | Gebäude AG-752-P, ... (2)
 AG-689-P | Minergie-P Definitiv | Bremgarten 5620 | Neubau, EFH | Gebäude AG-689-P, ... (2)
@@ -38,16 +53,3 @@ SG-282-P | Minergie-P Definitiv | Sevelen 9475 | Neubau, EFH | Gebäude SG-282-P
 SG-283-P | Minergie-P Definitiv | Sevelen 9475 | Neubau, EFH | Gebäude SG-283-P
 SG-284-P | Minergie-P Definitiv | Sevelen 9475 | Neubau, EFH | Gebäude SG-284-P
 SG-285-P | Minergie-P Definitiv | Sevelen 9475 | Neubau, EFH | Gebäude SG-285-P
-SG-286-P | Minergie-P Definitiv | Sevelen 9475 | Neubau, EFH | Gebäude SG-286-P
-SG-276-P | Minergie-P Definitiv | Sevelen 9475 | Neubau, EFH | Gebäude SG-276-P
-SG-277-P | Minergie-P Definitiv | Sevelen 9475 | Neubau, EFH | Gebäude SG-277-P
-SG-278-P | Minergie-P Definitiv | Sevelen 9475 | Neubau, EFH | Gebäude SG-278-P
-SG-279-P | Minergie-P Definitiv | Sevelen 9475 | Neubau, EFH | Gebäude SG-279-P
-SG-280-P | Minergie-P Definitiv | Sevelen 9475 | Neubau, EFH | Gebäude SG-280-P
-ITA-022 | Minergie Definitiv | Viggiù 21059 | Neubau, EFH | Gebäude ITA-022
-TI-189-A | Minergie-A Definitiv | Giumaglio 6678 | Neubau, EFH | Gebäude TI-189-A
-VD-4782 | Minergie Provisorisch | Coppet 1296 | Erneuerung / Neubau, EFH | Gebäude VD-4782
-ZH-811-P | Minergie-P Definitiv | Pfäffikon ZH 8330 | Neubau, Spital / MFH | Gebäude ZH-811-P
-BE-222-A | Minergie-A Definitiv | Huttwil 4950 | Neubau, EFH | Gebäude BE-222-A
-LU-2552 | Minergie Definitiv | Altbüron 6147 | Neubau, MFH | Gebäude LU-2552
-TI-736 | Minergie Provisorisch | Lugano 6900 | Erneuerung, MFH / Schule / Verkauf / Verwaltung | Gebäude TI-736
